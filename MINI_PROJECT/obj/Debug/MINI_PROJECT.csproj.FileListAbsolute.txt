@@ -1,0 +1,28 @@
+C:\Users\mohammad.hq\Desktop\MINI_Project\MINI_PROJECT\MINI_PROJECT\bin\Debug\MINI_PROJECT.exe.config
+C:\Users\mohammad.hq\Desktop\MINI_Project\MINI_PROJECT\MINI_PROJECT\bin\Debug\MINI_PROJECT.exe
+C:\Users\mohammad.hq\Desktop\MINI_Project\MINI_PROJECT\MINI_PROJECT\bin\Debug\MINI_PROJECT.pdb
+C:\Users\mohammad.hq\Desktop\MINI_Project\MINI_PROJECT\MINI_PROJECT\obj\Debug\MINI_PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\mohammad.hq\Desktop\MINI_Project\MINI_PROJECT\MINI_PROJECT\obj\Debug\MINI_PROJECT.Form1.resources
+C:\Users\mohammad.hq\Desktop\MINI_Project\MINI_PROJECT\MINI_PROJECT\obj\Debug\MINI_PROJECT.Properties.Resources.resources
+C:\Users\mohammad.hq\Desktop\MINI_Project\MINI_PROJECT\MINI_PROJECT\obj\Debug\MINI_PROJECT.csproj.GenerateResource.Cache
+C:\Users\mohammad.hq\Desktop\MINI_Project\MINI_PROJECT\MINI_PROJECT\obj\Debug\MINI_PROJECT.exe
+C:\Users\mohammad.hq\Desktop\MINI_Project\MINI_PROJECT\MINI_PROJECT\obj\Debug\MINI_PROJECT.pdb
+C:\Users\Seven\Desktop\MINI_PROJECT\MINI_PROJECT\bin\Debug\MINI_PROJECT.exe.config
+C:\Users\Seven\Desktop\MINI_PROJECT\MINI_PROJECT\bin\Debug\MINI_PROJECT.exe
+C:\Users\Seven\Desktop\MINI_PROJECT\MINI_PROJECT\bin\Debug\MINI_PROJECT.pdb
+C:\Users\Seven\Desktop\MINI_PROJECT\MINI_PROJECT\obj\Debug\MINI_PROJECT.csprojAssemblyReference.cache
+C:\Users\Seven\Desktop\MINI_PROJECT\MINI_PROJECT\obj\Debug\MINI_PROJECT.Form1.resources
+C:\Users\Seven\Desktop\MINI_PROJECT\MINI_PROJECT\obj\Debug\MINI_PROJECT.Properties.Resources.resources
+C:\Users\Seven\Desktop\MINI_PROJECT\MINI_PROJECT\obj\Debug\MINI_PROJECT.csproj.GenerateResource.cache
+C:\Users\Seven\Desktop\MINI_PROJECT\MINI_PROJECT\obj\Debug\MINI_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Seven\Desktop\MINI_PROJECT\MINI_PROJECT\obj\Debug\MINI_PROJECT.exe
+C:\Users\Seven\Desktop\MINI_PROJECT\MINI_PROJECT\obj\Debug\MINI_PROJECT.pdb
+C:\Users\mohammad.hq\Downloads\Telegram Desktop\MINI_PROJECT\MINI_PROJECT\bin\Debug\MINI_PROJECT.exe.config
+C:\Users\mohammad.hq\Downloads\Telegram Desktop\MINI_PROJECT\MINI_PROJECT\bin\Debug\MINI_PROJECT.exe
+C:\Users\mohammad.hq\Downloads\Telegram Desktop\MINI_PROJECT\MINI_PROJECT\bin\Debug\MINI_PROJECT.pdb
+C:\Users\mohammad.hq\Downloads\Telegram Desktop\MINI_PROJECT\MINI_PROJECT\obj\Debug\MINI_PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\mohammad.hq\Downloads\Telegram Desktop\MINI_PROJECT\MINI_PROJECT\obj\Debug\MINI_PROJECT.Form1.resources
+C:\Users\mohammad.hq\Downloads\Telegram Desktop\MINI_PROJECT\MINI_PROJECT\obj\Debug\MINI_PROJECT.Properties.Resources.resources
+C:\Users\mohammad.hq\Downloads\Telegram Desktop\MINI_PROJECT\MINI_PROJECT\obj\Debug\MINI_PROJECT.csproj.GenerateResource.Cache
+C:\Users\mohammad.hq\Downloads\Telegram Desktop\MINI_PROJECT\MINI_PROJECT\obj\Debug\MINI_PROJECT.exe
+C:\Users\mohammad.hq\Downloads\Telegram Desktop\MINI_PROJECT\MINI_PROJECT\obj\Debug\MINI_PROJECT.pdb
